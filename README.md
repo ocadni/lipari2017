@@ -8,4 +8,5 @@ Download or clone the repository. Open with your favorite browser the index.html
 ## Instruction for first notebook with folium
  *  <a href="https://www.python.org/downloads/" target="_blank">python</a>(version 3)
  *  <a href="https://jupyter.org/install.html" target="_blank">notebook jupyter</a>
-
+ *  Run from the terminal jupyter-notebook
+ *  Open from your browser the page myFirstFoliumMap.ipynb
